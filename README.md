@@ -16,7 +16,7 @@ The data used to develop the tutorial was sourced from [Zhu, Feng, et al. "Metag
 1. Clone the GitHub repo:
 
     ```bash
-    git clone https://github.com/natasha-dudek/ml4microbiome.git
+    git clone https://github.com/quantori/tutorial-on-ML-for-microbiomics.git
     ```
 
 2. Install requirements:
